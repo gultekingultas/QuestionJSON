@@ -1,0 +1,30 @@
+{
+	"questions":
+	[
+		{
+			"question": "What color is sky ? ",
+			"A": "BLUE",
+			"B": "RED",
+			"C": "YELLOW",
+			"D": "BLACK",
+			"correctIndex": "A"
+		},
+		{
+			"question": "What is the result of 2+2 ? ",
+			"A": "1",
+			"B": "2",
+			"C": "3",
+			"D": "4",
+			"correctIndex": "D"
+		},
+				{
+			"question": "Which one is eatable ?  ",
+			"A": "Iron",
+			"B": "Gold",
+			"C": "Hamburger",
+			"D": "Steel",
+			"correctIndex": "C"
+		}
+	
+	]
+}
