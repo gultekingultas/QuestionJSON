@@ -24,7 +24,7 @@
 			"C": "Hamburger",
 			"D": "Steel",
 			"correctIndex": "C"
-		}
+		},
 				{
 			"question": "How many questions in this project ?  ",
 			"A": "1",
